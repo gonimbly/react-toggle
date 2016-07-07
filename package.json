@@ -36,10 +36,10 @@
     "webpack-dev-server": "^1.7.0"
   },
   "dependencies": {
-    "classnames": "~2.2",
-    "react-addons-pure-render-mixin": ">=0.14.0"
+    "classnames": "~2.2"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0-0"
+    "react": "^0.14.0 || ^15.0.0-0",
+    "react-addons-pure-render-mixin": ">=0.14.0"
   }
 }
